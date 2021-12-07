@@ -62,7 +62,7 @@ const projects = [
 
 ];
 
-function Portfolio  () {
+function Project  () {
   const classes = useStyles();
   return (
     <Box component="div" className={classes.mainContainer}>
@@ -104,4 +104,4 @@ function Portfolio  () {
   );
 };
 
-export default Portfolio;
+export default Project;
