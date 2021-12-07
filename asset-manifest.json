@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.62d5269a.chunk.css",
-    "main.js": "/portfolio/static/js/main.6f8e2bfc.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.6f8e2bfc.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.60ef2439.chunk.js": "/portfolio/static/js/2.60ef2439.chunk.js",
-    "static/js/2.60ef2439.chunk.js.map": "/portfolio/static/js/2.60ef2439.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.040fdaa7012871acbf830ac3449a8c73.js": "/portfolio/precache-manifest.040fdaa7012871acbf830ac3449a8c73.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.62d5269a.chunk.css.map": "/portfolio/static/css/main.62d5269a.chunk.css.map",
-    "static/js/2.60ef2439.chunk.js.LICENSE.txt": "/portfolio/static/js/2.60ef2439.chunk.js.LICENSE.txt",
-    "static/media/PicsArt_08-23-01.50.52.jpg": "/portfolio/static/media/PicsArt_08-23-01.50.52.429a1b44.jpg",
-    "static/media/PicsArt_11-14-10.27.05.jpg": "/portfolio/static/media/PicsArt_11-14-10.27.05.dee54585.jpg",
-    "static/media/best-php-development-company.png": "/portfolio/static/media/best-php-development-company.6c978be2.png",
-    "static/media/App.css": "/portfolio/static/media/coffee-apple.2dd213aa.jpg",
-    "static/media/html-css-javascrit.jpg": "/portfolio/static/media/html-css-javascrit.fb77d8b2.jpg",
-    "static/media/react-native.jpg": "/portfolio/static/media/react-native.8c191bc5.jpg",
-    "static/media/reactjs-2.png": "/portfolio/static/media/reactjs-2.aa6f7d3c.png"
+    "main.css": "/my_resume/static/css/main.f0c12b19.chunk.css",
+    "main.js": "/my_resume/static/js/main.e1d12a81.chunk.js",
+    "main.js.map": "/my_resume/static/js/main.e1d12a81.chunk.js.map",
+    "runtime-main.js": "/my_resume/static/js/runtime-main.eed3da3a.js",
+    "runtime-main.js.map": "/my_resume/static/js/runtime-main.eed3da3a.js.map",
+    "static/js/2.60ef2439.chunk.js": "/my_resume/static/js/2.60ef2439.chunk.js",
+    "static/js/2.60ef2439.chunk.js.map": "/my_resume/static/js/2.60ef2439.chunk.js.map",
+    "index.html": "/my_resume/index.html",
+    "precache-manifest.ab0e0abd34ffa7a7a5d39e754faaad46.js": "/my_resume/precache-manifest.ab0e0abd34ffa7a7a5d39e754faaad46.js",
+    "service-worker.js": "/my_resume/service-worker.js",
+    "static/css/main.f0c12b19.chunk.css.map": "/my_resume/static/css/main.f0c12b19.chunk.css.map",
+    "static/js/2.60ef2439.chunk.js.LICENSE.txt": "/my_resume/static/js/2.60ef2439.chunk.js.LICENSE.txt",
+    "static/media/PicsArt_08-23-01.50.52.jpg": "/my_resume/static/media/PicsArt_08-23-01.50.52.429a1b44.jpg",
+    "static/media/PicsArt_11-14-10.27.05.jpg": "/my_resume/static/media/PicsArt_11-14-10.27.05.dee54585.jpg",
+    "static/media/best-php-development-company.png": "/my_resume/static/media/best-php-development-company.6c978be2.png",
+    "static/media/App.css": "/my_resume/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/html-css-javascrit.jpg": "/my_resume/static/media/html-css-javascrit.fb77d8b2.jpg",
+    "static/media/react-native.jpg": "/my_resume/static/media/react-native.8c191bc5.jpg",
+    "static/media/reactjs-2.png": "/my_resume/static/media/reactjs-2.aa6f7d3c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.209c2d7e.js",
+    "static/js/runtime-main.eed3da3a.js",
     "static/js/2.60ef2439.chunk.js",
-    "static/css/main.62d5269a.chunk.css",
-    "static/js/main.6f8e2bfc.chunk.js"
+    "static/css/main.f0c12b19.chunk.css",
+    "static/js/main.e1d12a81.chunk.js"
   ]
 }
